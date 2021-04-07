@@ -701,9 +701,17 @@ p {
     font-weight: 700;
 }
 
-.social {
+.socialdiv {
     max-width: 400px;
     margin: auto auto auto auto;
+}
+
+.social {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
 }
 
 h2 {
