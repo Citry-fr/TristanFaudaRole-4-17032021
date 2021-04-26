@@ -1036,6 +1036,16 @@ h4 {
         width: 180px;
         height: 320px;
     }
+    .img-responsive {
+        position: relative;
+        width: 270px;
+        height: 270px;
+        left: 25%;
+    }
+    .socialdiv {
+        display: flex;
+        justify-content: space-around;
+    }
 }
 
 @media (max-width: 400px) {
