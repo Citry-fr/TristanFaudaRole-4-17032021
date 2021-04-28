@@ -1074,3 +1074,7 @@ h4 {
 .author {
     font-size: 1.2em;
 }
+
+.nav-logo {
+    height: 40px;
+}
